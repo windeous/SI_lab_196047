@@ -1,6 +1,7 @@
 SI_lab2_196047
 
 Control flow graph
+https://github.com/windeous/SI_lab_196047/blob/main/Screenshot_7436.png
 
 Cyclomatic complexity
 E - N + 2*P = 27-21+2= 8
